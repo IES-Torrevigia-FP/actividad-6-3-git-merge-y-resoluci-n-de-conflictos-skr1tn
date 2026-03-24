@@ -1,0 +1,7 @@
+skr@skr-VirtualBox:~/Documentos/dev/actividad-6-3-git-merge-y-resoluci-n-de-conflictos-skr1tn$ git branch
+* main
+skr@skr-VirtualBox:~/Documentos/dev/actividad-6-3-git-merge-y-resoluci-n-de-conflictos-skr1tn$ git log --oneline
+15b95cf (HEAD -> main) Crea historia inicial en main
+cf2196a (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit
+
