@@ -1,0 +1,9 @@
+eaa0f0b (HEAD -> main) Resuelve conflicto en línea 2 combinando ambas versiones
+f0262ec Modifica línea 2 en main
+88f9962 (version-alternativa) Modifica línea 2 en rama alternativa
+5c92770 (capitulo-1) Añade línea para el capítulo 1
+15b95cf Crea historia inicial en main
+cf2196a (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit
+
+Modifique a mano el histori.txt de tal forma de que no haya conflicto.

@@ -1,0 +1,8 @@
+git merge capitulo-1
+Actualizando 15b95cf..5c92770
+Fast-forward
+ cp1-estado-inicial.txt | 7 +++++++
+ 1 file changed, 7 insertions(+)
+ create mode 100644 cp1-estado-inicial.txt
+
+Un merge sin conflicto es cuando a la hora de juntas 2 ramas en git no te de ningun tipo de error
